@@ -16,7 +16,7 @@ cd nonogram_solver
 python main.py
 ```
 
-![](https://github.com/mohammad2goodarzi/nonogram-solver/nonogram.gif)
+![](https://github.com/mohammad2goodarzi/nonogram-solver/blob/main/nonogram.gif)
 
 
 You can run only the nonogram.py file using the following commands
