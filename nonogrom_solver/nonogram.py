@@ -147,5 +147,4 @@ if __name__ == '__main__':
     ]
 
     nonogram = Nonogram(size=size, columns_description=columns_description, rows_description=rows_description)
-    print('solved:', nonogram.solved)
     print(nonogram.table)
