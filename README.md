@@ -22,7 +22,7 @@ python main.py
 You can run only the nonogram.py file using the following commands
 ```bash
 cd nonogram_solver
-python main.py
+python nonogram.py
 ```
 
 This is how nonogram.py works
